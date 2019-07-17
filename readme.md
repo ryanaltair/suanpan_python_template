@@ -1,9 +1,9 @@
 # don't fork, use Use_This_Template button
 
 ### develop
-add source to packages
-add sp_**.py as entry
-add pip depends to requirements.txt
+- add source to packages
+- add `sp_**.py` as entry
+- add pip depends to `requirements.txt`
 
 ### 
 edit the docker image name and version
